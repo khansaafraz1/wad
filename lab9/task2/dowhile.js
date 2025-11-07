@@ -1,0 +1,1 @@
+document.getElementById("myPara").innerHTML = "My name is <b>Khansa Afraz</b>";

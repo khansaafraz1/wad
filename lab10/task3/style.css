@@ -1,0 +1,12 @@
+ .firstClass
+    {
+      color: purple;
+      font-size: 18px;
+    }
+    .secondClass
+    {
+      background-color: gray;
+      font-weight: bold;
+      border: 2px solid blue;
+      padding: 5px;
+    }
